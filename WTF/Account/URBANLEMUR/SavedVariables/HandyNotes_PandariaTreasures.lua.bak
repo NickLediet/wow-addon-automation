@@ -1,0 +1,14 @@
+
+PandariaTreasuresDB = {
+	["profileKeys"] = {
+		["Lunarisi - Rexxar"] = "Default",
+		["Nephalia - Rexxar"] = "Default",
+		["Kipol - Rexxar"] = "Default",
+		["Dralana - Rexxar"] = "Default",
+		["Nuuda - Rexxar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

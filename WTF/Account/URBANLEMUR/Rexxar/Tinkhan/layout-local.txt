@@ -1,0 +1,15 @@
+Version: 1
+Frame: Recount_MainWindow
+FrameLevel: 40
+Anchor: BOTTOMRIGHT
+X: -376
+Y: 184
+W: 140
+H: 200
+Frame: FloatingBattlePetTooltip
+FrameLevel: 1
+Anchor: BOTTOM
+X: 1
+Y: 188
+W: 260
+H: 150

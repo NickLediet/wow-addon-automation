@@ -1,0 +1,343 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Bellameaux"] = {
+			["GUID"] = "Player-3675-06D7F77A",
+			["LastEventHealth"] = {
+				782, -- [1]
+				782, -- [2]
+				782, -- [3]
+				782, -- [4]
+				1540, -- [5]
+			},
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"HEAL", -- [5]
+			},
+			["TimeWindows"] = {
+				["TimeDamage"] = {
+					5.08, -- [1]
+				},
+				["ActiveTime"] = {
+					5.08, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Bellameaux",
+			["level"] = 22,
+			["LastFightIn"] = 0,
+			["TimeLast"] = {
+				["OVERALL"] = 136484.253,
+				["TimeDamage"] = 136484.253,
+				["ActiveTime"] = 136484.253,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 1,
+			["GuardianReverseGUIDs"] = {
+				["Consecration"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-3776-0-13-43499-00006A96B6",
+					},
+				},
+			},
+			["LastEventHealthMax"] = {
+				782, -- [1]
+				782, -- [2]
+				782, -- [3]
+				782, -- [4]
+				1540, -- [5]
+			},
+			["Owner"] = false,
+			["Pet"] = {
+				"Consecration <Bellameaux>", -- [1]
+			},
+			["NextEventNum"] = 6,
+			["LastDamageTime"] = 136484.831,
+			["LastEvents"] = {
+				"Bellameaux Consecration Crithto Miss (Holy)", -- [1]
+				"Bellameaux Consecration Crithto Miss (Holy)", -- [2]
+				"Bellameaux Consecration Crithto Miss (Holy)", -- [3]
+				"Bellameaux Consecration Crithto Miss (Holy)", -- [4]
+				"Manofmist Vivify Bellameaux Hit +434 (434 Overheal)", -- [5]
+			},
+			["Name"] = "Bellameaux",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				true, -- [5]
+			},
+			["LastEventTimes"] = {
+				136479.828, -- [1]
+				136480.862, -- [2]
+				136481.911, -- [3]
+				136484.831, -- [4]
+				136684.418, -- [5]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["Attacks"] = {
+						["Consecration"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ActiveTime"] = 5.08,
+					["TimeDamaging"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeSpent"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeDamage"] = 5.08,
+				},
+				["LastFightData"] = {
+					["Attacks"] = {
+						["Consecration"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ActiveTime"] = 5.08,
+					["TimeDamaging"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeSpent"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeDamage"] = 5.08,
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["Attacks"] = {
+						["Consecration"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ActiveTime"] = 5.08,
+					["TimeDamaging"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeSpent"] = {
+						["Crithto"] = {
+							["Details"] = {
+								["Consecration"] = {
+									["count"] = 5.08,
+								},
+							},
+							["amount"] = 5.08,
+						},
+					},
+					["TimeDamage"] = 5.08,
+				},
+			},
+			["UnitLockout"] = 136479.257,
+			["LastActive"] = 136684.253,
+		},
+	},
+	["FightNum"] = 1,
+	["CombatTimes"] = {
+		{
+			136479.257, -- [1]
+			136500.266, -- [2]
+			"00:57:33", -- [3]
+			"00:57:53", -- [4]
+			"Crithto", -- [5]
+		}, -- [1]
+	},
+	["FoughtWho"] = {
+		"Crithto 00:57:33-00:57:53", -- [1]
+	},
+}

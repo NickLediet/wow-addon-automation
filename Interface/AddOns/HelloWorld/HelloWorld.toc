@@ -1,0 +1,5 @@
+## Interface: 50200
+## Title: Hello World
+## Author: Nicholas Lediet
+## Version: 0.1
+main.lua

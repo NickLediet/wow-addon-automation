@@ -1,0 +1,85 @@
+VER 3 0100000000000011 "Between" "132298"
+#showtooltip Between the Eyes
+/cast [target=focus] Between the Eyes
+END
+VER 3 0100000000000015 "Blind" "132165"
+#showtooltip Blind
+/cast [target=focus] Blind
+END
+VER 3 010000000000000A "buff" "INV_MISC_QUESTIONMARK"
+/cast Feint
+/cast Evasion
+/cast Combat Readiness
+/cast Cloak of Shadows
+END
+VER 3 010000000000000D "burst" "135833"
+/use Kiroptyric Sigil
+/cast Curse of the Dreadblades(Artifact)
+END
+VER 3 0100000000000007 "Crazy" "ABILITY_RACIAL_SHADOWMELD"
+#showtooltip
+/click [combat]  MultiBarRightButton1
+/castsequence reset:28 Premeditation, Shadowstep,  Ambush, Kidney Shot 
+END
+VER 3 0100000000000003 "crazy" "Ability_Creature_Cursed_02"
+/dismount
+/cast stealth
+END
+VER 3 0100000000000008 "d" "INV_MISC_QUESTIONMARK"
+/cast [combat] stealth; 
+/click MultiBarRightButton1
+END
+VER 3 010000000000000E "finish" "132298"
+/cast Between the Eyes
+/cast Run Throught
+END
+VER 3 0100000000000013 "Gogue" "132164"
+#showtooltip Gouge
+/cast [target=focus] Gouge
+END
+VER 3 0100000000000010 "Interrupt" "132342"
+#showtooltip Kick
+/cast [target=focus] Kick
+END
+VER 3 0100000000000001 "kill" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Ambush(Rank 2)
+/cast Backstab(Rank 3) 
+/cast Ambush
+/cast Eviscerate(Rank 4)
+/cast vanish
+/cast Cheap Shot
+/cast Rupture
+/cast Sap
+/cast Pick Pocket
+END
+VER 3 010000000000000C "pickpocket" "236283"
+/cleartarget
+/targetenemy
+/cast Sap
+/cast Pick Pocket
+END
+VER 3 010000000000000F "protect" "135874"
+/cast Riposte
+/cast Cloak of Shadows
+END
+VER 3 0100000000000009 "quick kill" "ABILITY_ROGUE_AMBUSH"
+#showtooltip
+/castsequence  Shadowstep, Ambush, Kidney Shot
+END
+VER 3 0100000000000016 "reset" "635350"
+/reset
+END
+VER 3 0100000000000012 "Sap" "132194"
+#showtooltip Sap
+/cast [target=focus] Sap
+END
+VER 3 0100000000000014 "Stealth" "132188"
+#showtooltip Stealth
+/cast !stealth
+END
+VER 3 0100000000000005 "vanish2" "ABILITY_RACIAL_SHADOWMELD"
+/cast Shadowmeld
+/cast Stealth
+/cast Premeditation
+END
