@@ -1,0 +1,80 @@
+
+MogItDB = {
+	["global"] = {
+		["version"] = "3.9.0",
+	},
+	["profileKeys"] = {
+		["Lunarisi - Rexxar"] = "Default",
+		["Nephalia - Rexxar"] = "Default",
+		["Gallei - Rexxar"] = "Default",
+		["Kipol - Rexxar"] = "Default",
+		["Ikort - Rexxar"] = "Default",
+		["Tinkhan - Rexxar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["slotLabels"] = {
+				["Waist"] = "Waist",
+				["Fist"] = "Fist Weapons",
+				["Tabard"] = "Tabard",
+				["Legs"] = "Legs",
+				["Back"] = "Back",
+				["1H-sword"] = "One-Handed Swords",
+				["Shirt"] = "Shirt",
+				["Dagger"] = "Daggers",
+				["Hands"] = "Hands",
+				["Gun"] = "Guns",
+				["Bow"] = "Bows",
+				["2H-sword"] = "Two-Handed Swords",
+				["2H-axe"] = "Two-Handed Axes",
+				["ArtifactLegion"] = "Legion Artifacts",
+				["1H-mace"] = "One-Handed Maces",
+				["1H-axe"] = "One-Handed Axes",
+				["Holdable"] = "Held In Off-hand",
+				["Polearm"] = "Polearms",
+				["Feet"] = "Feet",
+				["Staff"] = "Staves",
+				["Chest"] = "Chest",
+				["Shield"] = "Shields",
+				["Head"] = "Head",
+				["Wrist"] = "Wrist",
+				["Crossbow"] = "Crossbows",
+				["2H-mace"] = "Two-Handed Maces",
+				["Shoulder"] = "Shoulder",
+				["Wand"] = "Wands",
+			},
+			["minimap"] = {
+				["minimapPos"] = 338.5688384930366,
+			},
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Lunarisi - Rexxar"] = "Lunarisi - Rexxar",
+		["Nephalia - Rexxar"] = "Nephalia - Rexxar",
+		["Gallei - Rexxar"] = "Gallei - Rexxar",
+		["Kipol - Rexxar"] = "Kipol - Rexxar",
+		["Ikort - Rexxar"] = "Ikort - Rexxar",
+		["Tinkhan - Rexxar"] = "Tinkhan - Rexxar",
+	},
+	["global"] = {
+		["version"] = 80205,
+	},
+	["profiles"] = {
+		["Lunarisi - Rexxar"] = {
+		},
+		["Nephalia - Rexxar"] = {
+		},
+		["Gallei - Rexxar"] = {
+		},
+		["Kipol - Rexxar"] = {
+		},
+		["Ikort - Rexxar"] = {
+		},
+		["Tinkhan - Rexxar"] = {
+		},
+	},
+}

@@ -1,0 +1,13 @@
+
+HandyNotes_DungeonLocationsDB = {
+	["profileKeys"] = {
+		["Kipol - Rexxar"] = "Default",
+		["Lunarisi - Rexxar"] = "Default",
+		["Gallei - Rexxar"] = "Default",
+		["Tinkhan - Rexxar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

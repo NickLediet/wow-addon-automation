@@ -1,0 +1,25 @@
+
+HandyNotes_LegionTreasuresDB = {
+	["profileKeys"] = {
+		["Lunarisi - Rexxar"] = "Lunarisi - Rexxar",
+		["Nephalia - Rexxar"] = "Nephalia - Rexxar",
+		["Gallei - Rexxar"] = "Gallei - Rexxar",
+		["Kipol - Rexxar"] = "Kipol - Rexxar",
+		["Ikort - Rexxar"] = "Ikort - Rexxar",
+		["Tinkhan - Rexxar"] = "Tinkhan - Rexxar",
+	},
+	["profiles"] = {
+		["Lunarisi - Rexxar"] = {
+		},
+		["Nephalia - Rexxar"] = {
+		},
+		["Gallei - Rexxar"] = {
+		},
+		["Kipol - Rexxar"] = {
+		},
+		["Ikort - Rexxar"] = {
+		},
+		["Tinkhan - Rexxar"] = {
+		},
+	},
+}

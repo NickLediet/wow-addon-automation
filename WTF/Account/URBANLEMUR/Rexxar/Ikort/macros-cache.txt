@@ -1,0 +1,19 @@
+VER 3 0100000000000003 "Maim" "Ability_GhoulFrenzy"
+#showtooltip
+/cast Charge
+#showtooltip
+/cast Bloodrage
+#showtooltip
+/cast Sunder Armor
+#showtooltip
+/cast Rend
+#showtooltip
+/cast Mortal Strike 
+END
+VER 3 0100000000000001 "Say Recruit" "Ability_Creature_Cursed_04"
+<Divine Protectors>
+Recruiting members looking for laid back guild interested in having fun and helping each other level.
+END
+VER 3 0100000000000002 "YEll Recruit" "Ability_Creature_Cursed_03"
+/y <Divine Protectors>  A laid back guild looking for members who want to help each other and have good time
+END

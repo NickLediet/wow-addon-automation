@@ -1,0 +1,187 @@
+VER 3 000000000000002E "/dero" "ABILITY_RACIAL_SHADOWMELD"
+/startattack
+/cast Moonfire
+END
+VER 3 000000000000002B "Adam" "INV_MISC_QUESTIONMARK"
+/whisper  Flash Heal
+END
+VER 3 000000000000002F "Balls" "SPELL_NATURE_WISPSPLODE"
+/cast Celestial Alignment
+/cast Incarnation: Chosen of Elune(Talent, Shapeshift)
+/cast Heart of the Wild(Talent)
+END
+VER 3 000000000000001F "DAM1" "SPELL_DEATHKNIGHT_EMPOWERRUNEBLADE"
+#showtooltip
+/cast Outbreak
+/cast Pillar of Frost
+END
+VER 3 0000000000000020 "DAM2" "SPELL_SHADOW_CONTAGION"
+#showtooltip
+/cast Unholy Blight
+/cast Empower Runic Weaponw
+END
+VER 3 0000000000000028 "Death's advance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast death's advance
+/cast unholy presence
+END
+VER 3 0000000000000019 "dodge" "INV_MISC_QUESTIONMARK"
+/use Moroes' Lucky Pocket Watch
+/cast Evasion
+/cast Feint
+END
+VER 3 0000000000000029 "Double conversio" "INV_MISC_QUESTIONMARK"
+/cast !conversion
+END
+VER 3 000000000000001A "druid" "SPELL_ARCANE_STARFIRE"
+END
+VER 3 0000000000000016 "find" "INV_MISC_QUESTIONMARK"
+/y  Ëtri!!!
+END
+VER 3 0000000000000014 "free" "INV_Misc_QuestionMark"
+/use Insignia of the Alliance
+/cast awVanish
+END
+VER 3 0000000000000026 "Garrot " "INV_THROWINGKNIFE_02"
+#showtooltip
+/cast Premeditation
+/cast Garrote
+END
+VER 3 0000000000000013 "gassa" "Ability_Creature_Poison_04"
+/cast Arcane Missiles
+/y PEW PEW
+END
+VER 3 0000000000000007 "guild recruit ti" "Ability_Ambush"
+<Divine Protectors> recruiting members looking to join a laid back guild that likes to help fellow members out.
+END
+VER 3 000000000000002A "Heal" "INV_MISC_QUESTIONMARK"
+/cast vampiric blood
+/cast rune tap
+/cast healthstone
+/cast Tyrannical Gladiator's Emblem of Cruelty
+END
+VER 3 000000000000001D "Heal" "Ability_Priest_Archangel"
+/cast Gift of the Naaru(Racial)
+/cast Death Siphon
+/cast Death Strike
+END
+VER 3 0000000000000021 "HEAL!" "SPELL_SHADOW_DEATHPACT"
+#showtooltip
+/cast Lichborne
+/target Tinkhan
+/cast Death Coil
+END
+VER 3 0000000000000022 "Heal2" "Ability_Paladin_SanctifiedWrath"
+#showtooltip
+/cast Raise Dead
+/cast Death Pact
+END
+VER 3 0000000000000017 "jo" "INV_THROWINGKNIFE_02"
+/cast Kidney Shot
+/cast Shadow Dance
+END
+VER 3 0000000000000024 "KING" "INV_MISC_QUESTIONMARK"
+/1 #BRIMBLEBEARDFORKING
+END
+VER 3 0000000000000025 "lkjsdaf" "ACHIEVEMENT_GUILDPERK_FASTTRACK"
+/castsequence Frost Presence, Unholy Presence, Blood Presence
+/cast Anti-Magic Shell
+/cast Blood Boil
+/cast Icebound Fortitude
+/cast Lichborne
+/cast Horn of Winter
+/cast Raise Dead
+/cast Unholy Blight
+/cast Pillar of Frost
+/cast Path of Frost
+END
+VER 3 0000000000000030 "macro test" "SPELL_MISC_PETHEAL"
+#showtooltip
+/cast
+/cast
+/cast
+awwwd
+END
+VER 3 0000000000000005 "moomoo" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Shoot
+/cast Sinister Strike
+/cast Gouge 
+/cast Eviscerate
+END
+VER 3 000000000000002C "mount" "INV_MISC_QUESTIONMARK"
+/userandom [flyable]<Flying Mount 1>,<Flying Mount 2>,<Flying Mount 3>(etc);<Land Mount 1>,<Land Mount 2>,<Land Mount 3>(etc)
+END
+VER 3 000000000000002D "mr pinchy " "INV_MISC_QUESTIONMARK"
+/target mr. pinchy sr.
+END
+VER 3 000000000000001C "Ob" "SPELL_DEATHKNIGHT_CLASSICON"
+/use Ban's Bag of Bombs
+/cast Obliterate
+END
+VER 3 0000000000000011 "poke" "INV_Misc_QuestionMark"
+poke
+END
+VER 3 000000000000001E "Prot" "Ability_Parry"
+/cast Icebound Fortitude
+/cast Anti-Magic Shell
+/cast Lichborne
+END
+VER 3 0000000000000006 "Recruit" "Ability_Creature_Cursed_01"
+/y <Divine Protectors> recruiting members looking to join a laid back guild that likes to help fellow members out.
+END
+VER 3 0000000000000027 "Reload" "608954"
+/reload ui
+END
+VER 3 0000000000000003 "selling" "Ability_BackStab"
+ Selling 11 stacks of Netherweave Cloth 10 stacks Wool Cloth and 8 and half stacks of Linen Cloth along with a bunch of greens for low levels pst if interested
+END
+VER 3 000000000000000F "sllep" "INV_Misc_QuestionMark"
+/sleep
+END
+VER 3 0000000000000004 "sneaky" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Pick Pocket
+/cast Sap
+/cast Backstab
+/cast Sinister Strike
+/cast Gouge
+END
+VER 3 0000000000000010 "stand" "Ability_Creature_Disease_02"
+/stand
+END
+VER 3 0000000000000001 "Summon Mount" "Ability_Hunter_Pet_Bat"
+Cast 'Summon Mount'
+END
+VER 3 000000000000000B "tank healer" "INV_Misc_QuestionMark"
+/2 lf 1 tank  for reg halls of reflection
+END
+VER 3 0000000000000032 "target" "INV_MISC_QUESTIONMARK"
+/target Val'zareq the Conqueror
+END
+VER 3 0000000000000033 "Test" "133041"
+/run 
+msg="Test"
+print(msg)
+END
+VER 3 000000000000000A "Tinkhan" "Ability_BackStab"
+/s I AM TINKHAN WOOFS
+/CAST Obliterate(Rank 4)
+END
+VER 3 0000000000000039 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMCancelAuctionBtn
+/click TSMShoppingBuyoutBtn
+/click TSMSniperBtn
+/click TSMAuctioningBtn
+/click TSMCraftingBtn
+END
+VER 3 0000000000000008 "turan" "Ability_Creature_Cursed_03"
+/moo
+END
+VER 3 0000000000000031 "whistle/" "SPELL_MISC_PETHEAL"
+/whistle
+END
+VER 3 0000000000000012 "xxx" "Ability_Ambush"
+/sit
+/stand
+END

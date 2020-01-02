@@ -1,0 +1,45 @@
+
+DejunkPerChar = {
+	["UseGlobal"] = true,
+	["AutoSell"] = false,
+	["SellRare"] = false,
+	["Destroyables"] = {
+	},
+	["DestroyPriceThreshold"] = {
+		["Copper"] = 0,
+		["Silver"] = 0,
+		["Gold"] = 0,
+	},
+	["IgnoreConsumables"] = false,
+	["AutoRepair"] = false,
+	["IgnoreRecipes"] = false,
+	["SafeMode"] = true,
+	["SellUnsuitable"] = false,
+	["IgnoreItemEnhancements"] = false,
+	["IgnoreGems"] = false,
+	["SellCommon"] = false,
+	["Inclusions"] = {
+	},
+	["SilentMode"] = false,
+	["DestroyIgnoreExclusions"] = false,
+	["IgnoreBindsWhenEquipped"] = false,
+	["SellEquipmentBelowILVL"] = {
+		["Enabled"] = false,
+		["Value"] = 1,
+	},
+	["DestroyInclusions"] = false,
+	["IgnoreSoulbound"] = false,
+	["Exclusions"] = {
+	},
+	["DestroyUsePriceThreshold"] = false,
+	["AutoDestroy"] = false,
+	["IgnoreTradeGoods"] = false,
+	["SellPoor"] = true,
+	["IgnoreEquipmentSets"] = false,
+	["SellUncommon"] = false,
+	["SellEpic"] = false,
+	["VerboseMode"] = false,
+	["IgnoreBattlePets"] = false,
+	["DestroyPoor"] = false,
+	["IgnoreGlyphs"] = false,
+}

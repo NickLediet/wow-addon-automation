@@ -1,0 +1,15 @@
+Version: 1
+Frame: FocusFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -327
+Y: 182
+W: 232
+H: 100
+Frame: Recount_MainWindow
+FrameLevel: 40
+Anchor: BOTTOMRIGHT
+X: -312
+Y: 181
+W: 317
+H: 235

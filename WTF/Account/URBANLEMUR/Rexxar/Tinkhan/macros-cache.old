@@ -1,0 +1,75 @@
+VER 3 0100000000000009 "battle 2" "Spell_FireResistanceTotem_01"
+#showtooltip
+/castsequence [mod] Death and Decay; reset=combat Icy Touch, Plague Strike, Blood Strike, Obliterate
+/cast [nomod]
+END
+VER 3 0100000000000007 "battle macro" "Spell_Fire_BlueFlameStrike"
+#showtooltip
+/castsequence reset=combat/target6 Icy Touch, Plague Strike, Pestilence
+END
+VER 3 0100000000000013 "cam" "136119"
+/console ActionCam 
+END
+VER 3 010000000000000D "Death Grip" "Spell_Shadow_Shadowfiend"
+#showtooltip
+/cast Death Grip
+/stopmacro [noexists] [help]
+/script local c="Death Grip';if GetSpellCooldown(c)==0 PlaySoundFile ("Sound\\Creature\\HeadlessHorseman\\Horseman_Bekon_01") end;
+END
+VER 3 0100000000000014 "dsadasd" "INV_MISC_QUESTIONMARK"
+/run local name =UnitName("player");print(name);
+END
+VER 3 0100000000000002 "fight" "Ability_BackStab"
+Cast "icy toucch
+/flap"
+Cast "death and decay"
+END
+VER 3 0100000000000001 "fight mode " "Ability_Creature_Poison_04"
+GRATZGRATZGRATZ
+C
+ O 
+   N
+     G
+        R
+            A
+              T
+                Z
+END
+VER 3 010000000000000B "guild" "INV_Misc_QuestionMark"
+/y COME JOIN THE <DIVINE PROTECTERS> WE ARE AN fuun and laid back guild that has just started and are looking for recrui
+END
+VER 3 0100000000000011 "Heal" "SPELL_SHADOW_DEATHPACT"
+/cast Raise Dead
+/cast Death Pact
+END
+VER 3 0100000000000003 "hehehe" "Ability_Creature_Cursed_03"
+/dance
+/sit
+/sleep 
+/stand
+/slap
+/flirt
+/silly
+END
+VER 3 0100000000000004 "hehehe2" "Ability_Creature_Cursed_04"
+/dance
+/flirt
+END
+VER 3 0100000000000006 "hell yeah" "Spell_Arcane_ManaTap"
+#showtooltip Howing Blast
+/cast Deathchill
+/cast Howling Blast
+END
+VER 3 0100000000000005 "love" "Ability_Creature_Cursed_02"
+/kiss
+/kiss
+/kiss
+/kiss
+/kiss
+/love
+/flirt
+END
+VER 3 0100000000000010 "mount" "INV_HELMET_21"
+/use Iron Boot Flask
+/cast Cobalt War Talbuk
+END

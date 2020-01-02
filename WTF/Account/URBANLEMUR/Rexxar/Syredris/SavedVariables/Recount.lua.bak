@@ -1,0 +1,8139 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["No One"] = {
+			["GUID"] = "",
+			["TimeLast"] = {
+				["TimeHeal"] = 134885.534,
+				["HOT_Time"] = 134885.534,
+				["ActiveTime"] = 134885.534,
+				["OVERALL"] = 134885.534,
+				["Healing"] = 134885.534,
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+				"HEAL", -- [7]
+				"HEAL", -- [8]
+				"HEAL", -- [9]
+				"HEAL", -- [10]
+				"HEAL", -- [11]
+				"HEAL", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"HEAL", -- [18]
+			},
+			["TimeWindows"] = {
+				["Healing"] = {
+					66907, -- [1]
+				},
+				["TimeHeal"] = {
+					19.24, -- [1]
+				},
+				["HOT_Time"] = {
+					39, -- [1]
+				},
+				["ActiveTime"] = {
+					19.24, -- [1]
+				},
+			},
+			["LastHealTime"] = 134886.147,
+			["level"] = 0,
+			["LastFightIn"] = 3,
+			["type"] = "Ungrouped",
+			["FightsSaved"] = 5,
+			["Owner"] = false,
+			["NextEventNum"] = 19,
+			["LastActive"] = 134896.536,
+			["LastEvents"] = {
+				"No One Lifegiving Waters Syredris Tick +5147", -- [1]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [2]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [3]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [4]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [5]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [6]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [7]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [8]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [9]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [10]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [11]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [12]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [13]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [14]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [15]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [16]
+				"No One Lifegiving Waters Syredris Tick +5147", -- [17]
+				"No One Lifegiving Waters Syredris Tick +5146", -- [18]
+			},
+			["Name"] = "No One",
+			["LastEventTimes"] = {
+				134848.231, -- [1]
+				134850.465, -- [2]
+				134852.194, -- [3]
+				134854.232, -- [4]
+				134856.229, -- [5]
+				134858.25, -- [6]
+				134860.146, -- [7]
+				134862.226, -- [8]
+				134865.132, -- [9]
+				134866.371, -- [10]
+				134870.224, -- [11]
+				134884.226, -- [12]
+				134886.147, -- [13]
+				134888.254, -- [14]
+				134890.18, -- [15]
+				134892.214, -- [16]
+				134894.255, -- [17]
+				134897.123, -- [18]
+			},
+			["Fights"] = {
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["ActiveTime"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+					},
+					["Healing"] = 0,
+					["RageGained"] = {
+					},
+					["OverHeals"] = {
+					},
+					["Attacks"] = {
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 0,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Lifegiving Waters"] = {
+									["count"] = 19.24,
+								},
+							},
+							["amount"] = 19.24,
+						},
+					},
+					["TimeSpent"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Lifegiving Waters"] = {
+									["count"] = 19.24,
+								},
+							},
+							["amount"] = 19.24,
+						},
+					},
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Lifegiving Waters"] = {
+									["count"] = 66907,
+								},
+							},
+							["amount"] = 66907,
+						},
+					},
+					["HOT_Time"] = 39,
+					["ActiveTime"] = 19.24,
+					["Heals"] = {
+						["Lifegiving Waters"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 5147,
+									["min"] = 5146,
+									["count"] = 13,
+									["amount"] = 66907,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 66907,
+						},
+					},
+					["TimeHeal"] = 19.24,
+					["HOTs"] = {
+						["Lifegiving Waters"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 39,
+								},
+							},
+							["amount"] = 39,
+						},
+					},
+					["Healing"] = 66907,
+				},
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+			},
+			["UnitLockout"] = 134896.536,
+			["LastAbility"] = 61238.782,
+		},
+		["Syredris"] = {
+			["GUID"] = "Player-1151-07942B05",
+			["LastEventHealth"] = {
+				458174, -- [1]
+				458174, -- [2]
+				503100, -- [3]
+				503100, -- [4]
+				499981, -- [5]
+				481150, -- [6]
+				481150, -- [7]
+				481150, -- [8]
+				494714, -- [9]
+				494714, -- [10]
+				494714, -- [11]
+				487601, -- [12]
+				487601, -- [13]
+				487601, -- [14]
+				480586, -- [15]
+				480586, -- [16]
+				473083, -- [17]
+				473083, -- [18]
+				473083, -- [19]
+				473083, -- [20]
+				473083, -- [21]
+				465385, -- [22]
+				465385, -- [23]
+				465385, -- [24]
+				465385, -- [25]
+				465385, -- [26]
+				465385, -- [27]
+				465385, -- [28]
+				465385, -- [29]
+				465385, -- [30]
+				465385, -- [31]
+				465385, -- [32]
+				465385, -- [33]
+				465385, -- [34]
+				465385, -- [35]
+				465385, -- [36]
+				465385, -- [37]
+				465385, -- [38]
+				465385, -- [39]
+				465385, -- [40]
+				465385, -- [41]
+				465385, -- [42]
+				465385, -- [43]
+				465385, -- [44]
+				465385, -- [45]
+				465385, -- [46]
+				465385, -- [47]
+				465385, -- [48]
+				458174, -- [49]
+				458174, -- [50]
+			},
+			["LastAttackedBy"] = "Environment",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"HEAL", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					46.58, -- [1]
+				},
+				["FuryGain"] = {
+					1983, -- [1]
+				},
+				["Healing"] = {
+					471732, -- [1]
+				},
+				["DamageTaken"] = {
+					1886375, -- [1]
+				},
+				["ActiveTime"] = {
+					249.49, -- [1]
+				},
+				["Absorbs"] = {
+					22442, -- [1]
+				},
+				["HealingTaken"] = {
+					561081, -- [1]
+				},
+				["HOT_Time"] = {
+					51, -- [1]
+				},
+				["Interrupts"] = {
+					2, -- [1]
+				},
+				["Overhealing"] = {
+					712215, -- [1]
+				},
+				["TimeDamage"] = {
+					202.91, -- [1]
+				},
+				["DeathCount"] = {
+					1, -- [1]
+				},
+				["Damage"] = {
+					11364160, -- [1]
+				},
+			},
+			["enClass"] = "DEMONHUNTER",
+			["unit"] = "Syredris",
+			["LastActive"] = 135254.753,
+			["LastEventHealthMax"] = {
+				503100, -- [1]
+				503100, -- [2]
+				503100, -- [3]
+				503100, -- [4]
+				503100, -- [5]
+				503100, -- [6]
+				503100, -- [7]
+				503100, -- [8]
+				503100, -- [9]
+				503100, -- [10]
+				503100, -- [11]
+				503100, -- [12]
+				503100, -- [13]
+				503100, -- [14]
+				503100, -- [15]
+				503100, -- [16]
+				503100, -- [17]
+				503100, -- [18]
+				503100, -- [19]
+				503100, -- [20]
+				503100, -- [21]
+				503100, -- [22]
+				503100, -- [23]
+				503100, -- [24]
+				503100, -- [25]
+				503100, -- [26]
+				503100, -- [27]
+				503100, -- [28]
+				503100, -- [29]
+				503100, -- [30]
+				503100, -- [31]
+				503100, -- [32]
+				503100, -- [33]
+				503100, -- [34]
+				503100, -- [35]
+				503100, -- [36]
+				503100, -- [37]
+				503100, -- [38]
+				503100, -- [39]
+				503100, -- [40]
+				503100, -- [41]
+				503100, -- [42]
+				503100, -- [43]
+				503100, -- [44]
+				503100, -- [45]
+				503100, -- [46]
+				503100, -- [47]
+				503100, -- [48]
+				503100, -- [49]
+				503100, -- [50]
+			},
+			["level"] = 102,
+			["LastDamageAbility"] = "Falling",
+			["LastFightIn"] = 12,
+			["LastHealTime"] = 135173.027,
+			["type"] = "Grouped",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 3119,
+			["TimeLast"] = {
+				["FuryGain"] = 135194.743,
+				["TimeHeal"] = 135172.743,
+				["HOT_Time"] = 135172.743,
+				["OVERALL"] = 135254.753,
+				["DamageTaken"] = 135254.753,
+				["TimeDamage"] = 135190.744,
+				["Absorbs"] = 134942.526,
+				["HealingTaken"] = 135172.743,
+				["Overhealing"] = 135164.75,
+				["ActiveTime"] = 135190.744,
+				["Healing"] = 135172.743,
+				["Interrupts"] = 134912.534,
+				["DeathCount"] = 134957.526,
+				["Damage"] = 135190.744,
+			},
+			["Owner"] = false,
+			["Name"] = "Syredris",
+			["NextEventNum"] = 6,
+			["LastDamageTime"] = 135191.039,
+			["LastEvents"] = {
+				"Syredris Chaos Cleave Ancient Sentry Construct Hit -14396", -- [1]
+				"Syredris Chaos Strike Ancient Sentry Construct Crit -111787", -- [2]
+				"Syredris Consume Soul Syredris Hit +125775 (91032 Overheal)", -- [3]
+				"Syredris Consume Soul Syredris Hit +50310 (50310 Overheal)", -- [4]
+				"Environment Falling Syredris Hit -3119 (Physical)", -- [5]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7600 (Arcane)", -- [6]
+				"Syredris Eye Beam Ancient Sentry Construct Crit -25656", -- [7]
+				"Syredris Eye Beam Ancient Sentry Construct Crit -24462", -- [8]
+				"Syredris Uriah's Blessing Syredris Tick +13564", -- [9]
+				"Syredris Eye Beam Ancient Sentry Construct Crit -21516", -- [10]
+				"Syredris Eye Beam Ancient Sentry Construct Crit -21930", -- [11]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7113 (Arcane)", -- [12]
+				"Syredris Melee Ancient Sentry Construct Crit -9379 (Physical)", -- [13]
+				"Syredris Demon's Bite Ancient Sentry Construct Crit -73059 (Physical)", -- [14]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7015 (Arcane)", -- [15]
+				"Syredris Melee Ancient Sentry Construct Crit -19245 (Physical)", -- [16]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7503 (Arcane)", -- [17]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -11087 (Physical)", -- [18]
+				"Syredris Melee Ancient Sentry Construct Miss (1)", -- [19]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -11099 (Physical)", -- [20]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -11612 (Physical)", -- [21]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7698 (Arcane)", -- [22]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -23518 (Physical)", -- [23]
+				"Syredris Melee Ancient Sentry Construct Hit -7287 (Physical)", -- [24]
+				"Syredris Demon's Bite Ancient Sentry Construct Crit -57332 (Physical)", -- [25]
+				"Syredris Melee Ancient Sentry Construct Crit -7080 (Physical)", -- [26]
+				"Syredris Throw Glaive Ancient Sentry Construct Crit -85124 (Physical)", -- [27]
+				"Syredris Melee Ancient Sentry Construct Hit -7171 (Physical)", -- [28]
+				"Syredris Demon's Bite Ancient Sentry Construct Hit -31236 (Physical)", -- [29]
+				"Syredris Melee Ancient Sentry Construct Crit -7085 (Physical)", -- [30]
+				"Syredris Melee Ancient Sentry Construct Hit -7730 (Physical)", -- [31]
+				"Syredris Chaos Strike Ancient Sentry Construct Hit -50071", -- [32]
+				"Syredris Chaos Cleave Ancient Sentry Construct Hit -5007", -- [33]
+				"Syredris Melee Ancient Sentry Construct Hit -3634 (Physical)", -- [34]
+				"Syredris Chaos Strike Ancient Sentry Construct Hit -39385", -- [35]
+				"Syredris Chaos Cleave Ancient Sentry Construct Hit -3938", -- [36]
+				"Syredris Melee Ancient Sentry Construct Hit -7702 (Physical)", -- [37]
+				"Syredris Demon's Bite Ancient Sentry Construct Crit -60803 (Physical)", -- [38]
+				"Syredris Melee Ancient Sentry Construct Miss (1)", -- [39]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -7689 (Physical)", -- [40]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -7365 (Physical)", -- [41]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -7909 (Physical)", -- [42]
+				"Syredris Melee Ancient Sentry Construct Hit -7130 (Physical)", -- [43]
+				"Syredris Blade Dance Ancient Sentry Construct Hit -19711 (Physical)", -- [44]
+				"Syredris Demon's Bite Ancient Sentry Construct Hit -25314 (Physical)", -- [45]
+				"Syredris Melee Ancient Sentry Construct Miss (1)", -- [46]
+				"Syredris Demon's Bite Ancient Sentry Construct Hit -40272 (Physical)", -- [47]
+				"Syredris Melee Ancient Sentry Construct Hit -9431 (Physical)", -- [48]
+				"Ancient Sentry Construct Exposed Core Syredris Hit -7211 (Arcane)", -- [49]
+				"Syredris Chaos Strike Ancient Sentry Construct Crit -143963", -- [50]
+			},
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				true, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				true, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				135190.588, -- [1]
+				135191.039, -- [2]
+				135194.939, -- [3]
+				135195.036, -- [4]
+				135255.033, -- [5]
+				135172.665, -- [6]
+				135172.665, -- [7]
+				135172.895, -- [8]
+				135173.027, -- [9]
+				135173.027, -- [10]
+				135173.176, -- [11]
+				135173.692, -- [12]
+				135173.692, -- [13]
+				135173.871, -- [14]
+				135174.603, -- [15]
+				135175.991, -- [16]
+				135175.991, -- [17]
+				135176.078, -- [18]
+				135176.078, -- [19]
+				135176.095, -- [20]
+				135176.602, -- [21]
+				135176.602, -- [22]
+				135176.704, -- [23]
+				135178.343, -- [24]
+				135179.853, -- [25]
+				135180.546, -- [26]
+				135180.546, -- [27]
+				135180.546, -- [28]
+				135180.702, -- [29]
+				135180.702, -- [30]
+				135181.829, -- [31]
+				135183.441, -- [32]
+				135183.441, -- [33]
+				135183.595, -- [34]
+				135183.75, -- [35]
+				135183.75, -- [36]
+				135184.283, -- [37]
+				135184.728, -- [38]
+				135185.945, -- [39]
+				135186.167, -- [40]
+				135186.301, -- [41]
+				135186.622, -- [42]
+				135186.622, -- [43]
+				135186.861, -- [44]
+				135187.514, -- [45]
+				135188.568, -- [46]
+				135189.253, -- [47]
+				135189.253, -- [48]
+				135190.227, -- [49]
+				135190.588, -- [50]
+			},
+			["Fights"] = {
+				["Fight3"] = {
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fel Mastery"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Consume Magic"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FuryGain"] = 29,
+					["DOTs"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 198972,
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DOT_Time"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 125581,
+						["Nature"] = 73391,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 104584,
+					["PartialAbsorb"] = {
+						["Quaking Sands"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Metamorphosis"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 52292,
+								},
+							},
+							["amount"] = 52292,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 52292,
+								},
+							},
+							["amount"] = 52292,
+						},
+					},
+					["OverHeals"] = {
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Quaking Sands"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 31245,
+								},
+								["Call Lightning"] = {
+									["count"] = 73391,
+								},
+							},
+							["amount"] = 104636,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 94336,
+								},
+							},
+							["amount"] = 94336,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["No One"] = {
+							["Details"] = {
+								["Lifegiving Waters"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 20,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Fel Mastery"] = {
+									["count"] = 9,
+								},
+								["Consume Magic"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 29,
+						},
+					},
+					["FDamage"] = 0,
+					["PartialResist"] = {
+						["Quaking Sands"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 10,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 2.72,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.22,
+								},
+							},
+							["amount"] = 1.22,
+						},
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Iron Scale (Consume Magic)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Interrupts"] = 0,
+					["Heals"] = {
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenBlock"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Consume Soul"] = {
+									["count"] = 0,
+								},
+								["Leech"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 52292,
+									["min"] = 52292,
+									["count"] = 2,
+									["amount"] = 104584,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 104584,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 2.72,
+					["TimeDamaging"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Death Sweep"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Fel Rush"] = {
+									["count"] = 1.22,
+								},
+							},
+							["amount"] = 1.22,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["FuryGained"] = {
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 112,
+								},
+							},
+							["amount"] = 112,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["FuryGain"] = 132,
+					["DOTs"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 104293,
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DOT_Time"] = 0,
+					["ElementTaken"] = {
+						["Frost"] = 6310,
+						["Physical"] = 0,
+						["Melee"] = 75475,
+						["Nature"] = 22508,
+					},
+					["HOTs"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Damage"] = 462527,
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 73770,
+						["Physical"] = 216971,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 156171,
+								},
+								["Blade Dance"] = {
+									["count"] = 59674,
+								},
+								["Demon's Bite"] = {
+									["count"] = 157297,
+								},
+								["Melee"] = {
+									["count"] = 73770,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 15615,
+								},
+							},
+							["amount"] = 462527,
+						},
+						["Coastal Sandpiper"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 75475,
+								},
+								["Deluge Strike"] = {
+									["count"] = 22508,
+								},
+							},
+							["amount"] = 97983,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Call Lightning"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Word of Anguish (DoT)"] = {
+									["count"] = 6310,
+								},
+							},
+							["amount"] = 6310,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 2032,
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Demon's Bite"] = {
+									["count"] = 112,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 132,
+						},
+					},
+					["FDamage"] = 0,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 14.21,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2.92,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.02,
+								},
+								["Melee"] = {
+									["count"] = 6.95,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.32,
+								},
+							},
+							["amount"] = 14.21,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+					},
+					["Interrupts"] = 0,
+					["Heals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenBlock"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Miss"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 13,
+								},
+							},
+							["amount"] = 14,
+						},
+					},
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 46269,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 156171,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 156171,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 4741,
+									["min"] = 4741,
+									["count"] = 1,
+									["amount"] = 4741,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 19579,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 54933,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 59674,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6557,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 16113,
+								},
+								["Crit"] = {
+									["max"] = 12576,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 57657,
+								},
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 73770,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 31091,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 157297,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 157297,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4627,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 15615,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 15615,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 14.21,
+					["TimeDamaging"] = {
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2.92,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.02,
+								},
+								["Melee"] = {
+									["count"] = 6.95,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.32,
+								},
+							},
+							["amount"] = 14.21,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["FuryGain"] = 0,
+					["TimeSpent"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 0,
+					["PartialResist"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["Damage"] = 0,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FuryGained"] = {
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["WhoDamaged"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Call Lightning"] = {
+									["count"] = 0,
+								},
+								["Word of Anguish (DoT)"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Word of Anguish"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["Fight2"] = {
+					["FuryGained"] = {
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 14,
+								},
+							},
+							["amount"] = 14,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 121,
+								},
+							},
+							["amount"] = 121,
+						},
+						["Consume Magic"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FuryGain"] = 135,
+					["DOTs"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 12,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Dodge"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 18,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 80263,
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 21,
+					["ElementDoneAbsorb"] = {
+					},
+					["DOT_Time"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 11567,
+						["Frost"] = 0,
+						["Melee"] = 60881,
+						["Nature"] = 7815,
+					},
+					["HOTs"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 21,
+								},
+							},
+							["amount"] = 21,
+						},
+					},
+					["Damage"] = 898361,
+					["PartialAbsorb"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 18,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Poisonous Stab (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Throw Spear"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 10.96,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 184384,
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 50948,
+						["Physical"] = 706191,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 41845,
+								},
+								["Blade Dance"] = {
+									["count"] = 335440,
+								},
+								["Demon's Bite"] = {
+									["count"] = 251893,
+								},
+								["Chaos Nova"] = {
+									["count"] = 95193,
+								},
+								["Melee"] = {
+									["count"] = 50948,
+								},
+								["Throw Glaive"] = {
+									["count"] = 118858,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 4184,
+								},
+							},
+							["amount"] = 898361,
+						},
+					},
+					["OverHeals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 10959,
+									["min"] = 10959,
+									["count"] = 1,
+									["amount"] = 10959,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 10959,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 125775,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 151159,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 151159,
+						},
+					},
+					["WhoDamaged"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Word of Anguish"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Throw Spear"] = {
+									["count"] = 11567,
+								},
+								["Melee"] = {
+									["count"] = 60881,
+								},
+								["Poisonous Stab (DoT)"] = {
+									["count"] = 7815,
+								},
+							},
+							["amount"] = 80263,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 9.87,
+								},
+								["Consume Soul"] = {
+									["count"] = 1.09,
+								},
+							},
+							["amount"] = 10.96,
+						},
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 83993,
+								},
+								["Consume Soul"] = {
+									["count"] = 100391,
+								},
+							},
+							["amount"] = 184384,
+						},
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Demonic Appetite"] = {
+									["count"] = 14,
+								},
+								["Demon's Bite"] = {
+									["count"] = 121,
+								},
+								["Consume Magic"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 135,
+						},
+					},
+					["FDamage"] = 0,
+					["PartialResist"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 18,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 18,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Poisonous Stab (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Throw Spear"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 30.16,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.88,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.79,
+								},
+								["Melee"] = {
+									["count"] = 8.07,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.48,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.73,
+								},
+							},
+							["amount"] = 19.2,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 9.87,
+								},
+								["Consume Soul"] = {
+									["count"] = 1.09,
+								},
+							},
+							["amount"] = 10.96,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Overhealing"] = 162118,
+					["InterruptData"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Call Lightning (Consume Magic)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Interrupts"] = 0,
+					["Heals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 2605,
+									["count"] = 7,
+									["amount"] = 83993,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 83993,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 100391,
+									["min"] = 100391,
+									["count"] = 1,
+									["amount"] = 100391,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 100391,
+						},
+					},
+					["ElementTakenBlock"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 83993,
+								},
+								["Consume Soul"] = {
+									["count"] = 100391,
+								},
+							},
+							["amount"] = 184384,
+						},
+					},
+					["Healing"] = 184384,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 10,
+								},
+								["Hit"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 41845,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 41845,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 41845,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 47356,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 213993,
+								},
+								["Hit"] = {
+									["max"] = 23535,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 121447,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 335440,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 7235,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 13528,
+								},
+								["Hit"] = {
+									["max"] = 7693,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 37420,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 50948,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 47597,
+									["min"] = 47597,
+									["count"] = 1,
+									["amount"] = 47597,
+								},
+								["Hit"] = {
+									["max"] = 23798,
+									["min"] = 23798,
+									["count"] = 2,
+									["amount"] = 47596,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 95193,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 39821,
+									["min"] = 39361,
+									["count"] = 3,
+									["amount"] = 118858,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 118858,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 59287,
+									["min"] = 51498,
+									["count"] = 2,
+									["amount"] = 110785,
+								},
+								["Hit"] = {
+									["max"] = 30929,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 141108,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 251893,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4184,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 4184,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 4184,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 19.2,
+					["TimeDamaging"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.88,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.79,
+								},
+								["Melee"] = {
+									["count"] = 8.07,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.48,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.73,
+								},
+							},
+							["amount"] = 19.2,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["FuryGained"] = {
+						["Fel Mastery"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 41,
+								},
+							},
+							["amount"] = 41,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 78,
+						},
+					},
+					["FuryGain"] = 135,
+					["DOTs"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 96028,
+					["RageGainedFrom"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementDoneAbsorb"] = {
+					},
+					["DOT_Time"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 71499,
+						["Nature"] = 24529,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 465082,
+					["PartialAbsorb"] = {
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Coral Cut"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["HealingTaken"] = 0,
+					["FDamagedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 54069,
+						["Physical"] = 210582,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["DamagedWho"] = {
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Rapana Whelk"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 57286,
+								},
+								["Melee"] = {
+									["count"] = 54069,
+								},
+								["Fel Rush"] = {
+									["count"] = 52292,
+								},
+								["Demon's Bite"] = {
+									["count"] = 153296,
+								},
+								["Eye Beam"] = {
+									["count"] = 148139,
+								},
+							},
+							["amount"] = 465082,
+						},
+					},
+					["OverHeals"] = {
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 71499,
+								},
+								["Deluge Strike"] = {
+									["count"] = 24529,
+								},
+							},
+							["amount"] = 96028,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["EnergyGain"] = 0,
+					["CCBreak"] = 0,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Fel Mastery"] = {
+									["count"] = 16,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 41,
+								},
+								["Demon's Bite"] = {
+									["count"] = 78,
+								},
+							},
+							["amount"] = 135,
+						},
+					},
+					["FDamage"] = 0,
+					["PartialResist"] = {
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Coral Cut"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ActiveTime"] = 11.89,
+					["WhoDispelled"] = {
+					},
+					["TimeSpent"] = {
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6.05,
+								},
+								["Blade Dance"] = {
+									["count"] = 0.75,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.97,
+								},
+								["Eye Beam"] = {
+									["count"] = 2.12,
+								},
+							},
+							["amount"] = 11.89,
+						},
+					},
+					["Overhealing"] = 0,
+					["InterruptData"] = {
+					},
+					["Interrupts"] = 0,
+					["Heals"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["Healing"] = 0,
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["Attacks"] = {
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 52859,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 101202,
+								},
+								["Hit"] = {
+									["max"] = 26732,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 52094,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 153296,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13186,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 38818,
+								},
+								["Hit"] = {
+									["max"] = 18468,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 18468,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 57286,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13206,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 19773,
+								},
+								["Hit"] = {
+									["max"] = 6392,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 34296,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 54069,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 52292,
+									["min"] = 52292,
+									["count"] = 1,
+									["amount"] = 52292,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 52292,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fury of the Illidari"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 15788,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 148139,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 148139,
+						},
+					},
+					["RageGain"] = 0,
+					["PartialBlock"] = {
+					},
+					["TimeDamage"] = 11.89,
+					["TimeDamaging"] = {
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 6.05,
+								},
+								["Blade Dance"] = {
+									["count"] = 0.75,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.97,
+								},
+								["Eye Beam"] = {
+									["count"] = 2.12,
+								},
+							},
+							["amount"] = 11.89,
+						},
+					},
+					["ManaGain"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["FuryGain"] = 265,
+					["PartialBlock"] = {
+					},
+					["TimeSpent"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 6,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 54257,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 54257,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["FDamagedWho"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 48125,
+						["Arcane"] = 51058,
+						["Physical"] = 0,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["Damage"] = 1812124,
+					["Dispels"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 144422,
+						["Physical"] = 657501,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 48125,
+								},
+								["Exposed Core"] = {
+									["count"] = 51058,
+								},
+							},
+							["amount"] = 99183,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Deluge Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Word of Anguish"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Word of Anguish (DoT)"] = {
+									["count"] = 0,
+								},
+								["Call Lightning"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Thorny Shell"] = {
+									["count"] = 0,
+								},
+								["Powerful Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 6,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["OverHeals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 13565,
+									["count"] = 1,
+									["amount"] = 13565,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13565,
+						},
+					},
+					["CCBreak"] = 0,
+					["PartialResist"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 34.63,
+					["EnergyGained"] = {
+					},
+					["Healing"] = 54257,
+					["TimeDamage"] = 28.63,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 54257,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 54257,
+						},
+					},
+					["RageGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 6,
+					["RessedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["DamagedWho"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 530510,
+								},
+								["Blade Dance"] = {
+									["count"] = 144521,
+								},
+								["Melee"] = {
+									["count"] = 144422,
+								},
+								["Eye Beam"] = {
+									["count"] = 246632,
+								},
+								["Demon's Bite"] = {
+									["count"] = 391741,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 191188,
+								},
+								["Throw Glaive"] = {
+									["count"] = 121239,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 41871,
+								},
+							},
+							["amount"] = 1812124,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["Dispelled"] = 0,
+					["Absorbed"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DOTs"] = {
+					},
+					["EnergyGain"] = 0,
+					["RunicPowerGain"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 35,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 190,
+								},
+							},
+							["amount"] = 190,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HOT_Time"] = 15,
+					["WhoDispelled"] = {
+					},
+					["RageGain"] = 0,
+					["Heals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 13564,
+									["count"] = 4,
+									["amount"] = 54257,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 54257,
+						},
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 22,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["Overhealing"] = 13565,
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 143963,
+									["min"] = 84493,
+									["count"] = 4,
+									["amount"] = 441054,
+								},
+								["Hit"] = {
+									["max"] = 50071,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 89456,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 530510,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 19245,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 74068,
+								},
+								["Hit"] = {
+									["max"] = 9431,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 70354,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 144422,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 12805,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 12805,
+								},
+								["Hit"] = {
+									["max"] = 23518,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 131716,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 144521,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 73059,
+									["min"] = 50920,
+									["count"] = 5,
+									["amount"] = 294919,
+								},
+								["Hit"] = {
+									["max"] = 40272,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 96822,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 391741,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 26324,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 246632,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 246632,
+						},
+						["Fury of the Illidari"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 32126,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 48268,
+								},
+								["Hit"] = {
+									["max"] = 16249,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 142920,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 191188,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 85124,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 85124,
+								},
+								["Hit"] = {
+									["max"] = 36115,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 36115,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 121239,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14396,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 41871,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 41871,
+						},
+					},
+					["HealingTaken"] = 54257,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 40,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 35,
+								},
+								["Demon's Bite"] = {
+									["count"] = 190,
+								},
+							},
+							["amount"] = 265,
+						},
+					},
+					["InterruptData"] = {
+					},
+					["TimeDamaging"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DamageTaken"] = 99183,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["FuryGain"] = 265,
+					["PartialBlock"] = {
+					},
+					["TimeSpent"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 6,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 54257,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 54257,
+						},
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["Absorbs"] = 0,
+					["DeathCount"] = 0,
+					["FDamagedWho"] = {
+					},
+					["ElementTaken"] = {
+						["Frost"] = 0,
+						["Melee"] = 48125,
+						["Arcane"] = 51058,
+						["Physical"] = 0,
+						["Nature"] = 0,
+					},
+					["HOTs"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["Damage"] = 1812124,
+					["Dispels"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 144422,
+						["Physical"] = 657501,
+					},
+					["ManaGainedFrom"] = {
+					},
+					["WhoDamaged"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 48125,
+								},
+								["Exposed Core"] = {
+									["count"] = 51058,
+								},
+							},
+							["amount"] = 99183,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Deluge Strike"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Word of Anguish"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Frost Nova"] = {
+									["count"] = 0,
+								},
+								["Word of Anguish (DoT)"] = {
+									["count"] = 0,
+								},
+								["Call Lightning"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Thorny Shell"] = {
+									["count"] = 0,
+								},
+								["Powerful Bite"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 6,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["OverHeals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 13565,
+									["count"] = 1,
+									["amount"] = 13565,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 13565,
+						},
+					},
+					["CCBreak"] = 0,
+					["PartialResist"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 34.63,
+					["EnergyGained"] = {
+					},
+					["Healing"] = 54257,
+					["TimeDamage"] = 28.63,
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Uriah's Blessing"] = {
+									["count"] = 54257,
+								},
+								["Darkness"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 54257,
+						},
+					},
+					["RageGainedFrom"] = {
+					},
+					["RageGained"] = {
+					},
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 6,
+					["RessedWho"] = {
+					},
+					["FAttacks"] = {
+					},
+					["DamagedWho"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 530510,
+								},
+								["Blade Dance"] = {
+									["count"] = 144521,
+								},
+								["Melee"] = {
+									["count"] = 144422,
+								},
+								["Eye Beam"] = {
+									["count"] = 246632,
+								},
+								["Demon's Bite"] = {
+									["count"] = 391741,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 191188,
+								},
+								["Throw Glaive"] = {
+									["count"] = 121239,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 41871,
+								},
+							},
+							["amount"] = 1812124,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["Dispelled"] = 0,
+					["Absorbed"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DOTs"] = {
+					},
+					["EnergyGain"] = 0,
+					["RunicPowerGain"] = 0,
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 40,
+								},
+							},
+							["amount"] = 40,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 35,
+								},
+							},
+							["amount"] = 35,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 190,
+								},
+							},
+							["amount"] = 190,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Frost"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["HOT_Time"] = 15,
+					["WhoDispelled"] = {
+					},
+					["RageGain"] = 0,
+					["Heals"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 13564,
+									["count"] = 4,
+									["amount"] = 54257,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 54257,
+						},
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 11,
+								},
+							},
+							["amount"] = 22,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 22,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["Overhealing"] = 13565,
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 143963,
+									["min"] = 84493,
+									["count"] = 4,
+									["amount"] = 441054,
+								},
+								["Hit"] = {
+									["max"] = 50071,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 89456,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 530510,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 19245,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 74068,
+								},
+								["Hit"] = {
+									["max"] = 9431,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 70354,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 144422,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 12805,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 12805,
+								},
+								["Hit"] = {
+									["max"] = 23518,
+									["min"] = 0,
+									["count"] = 11,
+									["amount"] = 131716,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 144521,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 73059,
+									["min"] = 50920,
+									["count"] = 5,
+									["amount"] = 294919,
+								},
+								["Hit"] = {
+									["max"] = 40272,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 96822,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 391741,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 26324,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 246632,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 246632,
+						},
+						["Fury of the Illidari"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 32126,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 48268,
+								},
+								["Hit"] = {
+									["max"] = 16249,
+									["min"] = 0,
+									["count"] = 12,
+									["amount"] = 142920,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 191188,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 85124,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 85124,
+								},
+								["Hit"] = {
+									["max"] = 36115,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 36115,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 121239,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14396,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 41871,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 41871,
+						},
+					},
+					["HealingTaken"] = 54257,
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 40,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 35,
+								},
+								["Demon's Bite"] = {
+									["count"] = 190,
+								},
+							},
+							["amount"] = 265,
+						},
+					},
+					["InterruptData"] = {
+					},
+					["TimeDamaging"] = {
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0,
+								},
+								["Blade Dance"] = {
+									["count"] = 0,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Chaos Nova"] = {
+									["count"] = 0,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 0,
+								},
+								["Demon's Bite"] = {
+									["count"] = 0,
+								},
+								["Eye Beam"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["DamageTaken"] = 99183,
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["FuryGain"] = 1983,
+					["TimeSpent"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 5.36,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.51,
+								},
+								["Demon's Bite"] = {
+									["count"] = 4.81,
+								},
+								["Death Sweep"] = {
+									["count"] = 7.35,
+								},
+								["Melee"] = {
+									["count"] = 13.57,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.62,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.2,
+								},
+							},
+							["amount"] = 35.42,
+						},
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 2.66,
+								},
+								["Melee"] = {
+									["count"] = 7.6,
+								},
+								["Demon's Bite"] = {
+									["count"] = 4.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.5,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 3,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.34,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.99,
+								},
+							},
+							["amount"] = 21.3,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.31,
+								},
+								["Blade Dance"] = {
+									["count"] = 1.99,
+								},
+								["Melee"] = {
+									["count"] = 9.93,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.7,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.72,
+								},
+							},
+							["amount"] = 16.65,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.1,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.26,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.74,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.22,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.28,
+								},
+								["Melee"] = {
+									["count"] = 15.49,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 27.19,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.88,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.79,
+								},
+								["Melee"] = {
+									["count"] = 8.07,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.48,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.73,
+								},
+							},
+							["amount"] = 19.2,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.86,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.6,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.55,
+								},
+								["Melee"] = {
+									["count"] = 8.55,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.16,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 3.33,
+								},
+								["Demon's Bite"] = {
+									["count"] = 6.66,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.21,
+								},
+							},
+							["amount"] = 26.92,
+						},
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2.92,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.29,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 13,
+								},
+								["Eye Beam"] = {
+									["count"] = 2.12,
+								},
+							},
+							["amount"] = 27.6,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 3,
+								},
+								["Consume Soul"] = {
+									["count"] = 1.39,
+								},
+								["Uriah's Blessing"] = {
+									["count"] = 23.37,
+								},
+								["Leech"] = {
+									["count"] = 18.82,
+								},
+							},
+							["amount"] = 46.58,
+						},
+					},
+					["FuryGained"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 80,
+								},
+							},
+							["amount"] = 80,
+						},
+						["Demonic Appetite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 393,
+								},
+							},
+							["amount"] = 393,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 1423,
+								},
+							},
+							["amount"] = 1423,
+						},
+						["Fel Mastery"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+						["Consume Magic"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 62,
+								},
+							},
+							["amount"] = 62,
+						},
+					},
+					["Absorbs"] = 22442,
+					["DeathCount"] = 1,
+					["HOT_Time"] = 51,
+					["ElementTaken"] = {
+						["Physical"] = 148106,
+						["Melee"] = 989970,
+						["Arcane"] = 51058,
+						["Frost"] = 108623,
+						["Nature"] = 588618,
+					},
+					["HOTs"] = {
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["count"] = 51,
+								},
+							},
+							["amount"] = 51,
+						},
+					},
+					["Damage"] = 11364160,
+					["TimeHeal"] = 46.58,
+					["ElementDone"] = {
+						["Melee"] = 921425,
+						["Physical"] = 5365490,
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 87,
+								},
+								["Block"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 48,
+								},
+								["Miss"] = {
+									["count"] = 29,
+								},
+							},
+							["amount"] = 165,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 61,
+								},
+								["Hit"] = {
+									["count"] = 161,
+								},
+							},
+							["amount"] = 224,
+						},
+					},
+					["WhoDamaged"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Quaking Sands"] = {
+									["count"] = 231318,
+								},
+								["Melee"] = {
+									["count"] = 101878,
+								},
+							},
+							["amount"] = 333196,
+						},
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 171801,
+								},
+							},
+							["amount"] = 171801,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 40730,
+								},
+								["Call Lightning"] = {
+									["count"] = 53436,
+								},
+							},
+							["amount"] = 94166,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Word of Anguish"] = {
+									["count"] = 23794,
+								},
+								["Melee"] = {
+									["count"] = 102101,
+								},
+								["Frost Nova"] = {
+									["count"] = 38612,
+								},
+								["Word of Anguish (DoT)"] = {
+									["count"] = 46217,
+								},
+								["Call Lightning"] = {
+									["count"] = 207117,
+								},
+							},
+							["amount"] = 417841,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Throw Spear"] = {
+									["count"] = 11567,
+								},
+								["Melee"] = {
+									["count"] = 60881,
+								},
+								["Poisonous Stab (DoT)"] = {
+									["count"] = 7815,
+								},
+							},
+							["amount"] = 80263,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Thorny Shell"] = {
+									["count"] = 13919,
+								},
+								["Powerful Bite"] = {
+									["count"] = 76438,
+								},
+								["Melee"] = {
+									["count"] = 169058,
+								},
+							},
+							["amount"] = 259415,
+						},
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 48125,
+								},
+								["Exposed Core"] = {
+									["count"] = 51058,
+								},
+							},
+							["amount"] = 99183,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 295396,
+								},
+								["Deluge Strike"] = {
+									["count"] = 75013,
+								},
+							},
+							["amount"] = 370409,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 60101,
+								},
+							},
+							["amount"] = 60101,
+						},
+					},
+					["Absorbed"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Syredris"] = {
+									["max"] = 12200,
+									["min"] = 10242,
+									["count"] = 2,
+									["amount"] = 22442,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 22442,
+						},
+					},
+					["ElementDoneBlock"] = {
+						["Melee"] = 957,
+						["Physical"] = 8066,
+					},
+					["TimeHealing"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 3,
+								},
+								["Consume Soul"] = {
+									["count"] = 1.39,
+								},
+								["Uriah's Blessing"] = {
+									["count"] = 23.37,
+								},
+								["Leech"] = {
+									["count"] = 18.82,
+								},
+							},
+							["amount"] = 46.58,
+						},
+					},
+					["OverHeals"] = {
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 125775,
+									["min"] = 25384,
+									["count"] = 5,
+									["amount"] = 357891,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 357891,
+						},
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 7158,
+									["count"] = 6,
+									["amount"] = 57897,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 57897,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 87720,
+									["min"] = 921,
+									["count"] = 10,
+									["amount"] = 296427,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 296427,
+						},
+					},
+					["PartialResist"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 107,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 107,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 9,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["Quaking Sands"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 13,
+						},
+						["Poisonous Stab (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Coral Cut"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Throw Spear"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 15,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Word of Anguish"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Exposed Core"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 106,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 12200,
+									["min"] = 12200,
+									["count"] = 1,
+									["amount"] = 12200,
+								},
+							},
+							["count"] = 107,
+							["amount"] = 12200,
+						},
+						["Call Lightning"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+						["Thorny Shell"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Powerful Bite"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["Quaking Sands"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 13,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 13,
+							["amount"] = 0,
+						},
+						["Poisonous Stab (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Coral Cut"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Throw Spear"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Frost Nova"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Deluge Strike"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+						["Word of Anguish (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 15,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 15,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 249.49,
+					["InterruptData"] = {
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Call Lightning (Consume Magic)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Iron Scale (Consume Magic)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Darkness"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 12200,
+									["min"] = 10242,
+									["count"] = 2,
+									["amount"] = 22442,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 22442,
+						},
+						["Consume Soul"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 100391,
+									["min"] = 19663,
+									["count"] = 2,
+									["amount"] = 120054,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 120054,
+						},
+						["Uriah's Blessing"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 13565,
+									["min"] = 2235,
+									["count"] = 16,
+									["amount"] = 172700,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 172700,
+						},
+						["Leech"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 22511,
+									["min"] = 1978,
+									["count"] = 14,
+									["amount"] = 178978,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 178978,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 12200,
+					},
+					["Interrupts"] = 2,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 12,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 69,
+								},
+								["Miss"] = {
+									["count"] = 8,
+								},
+								["Dodge"] = {
+									["count"] = 21,
+								},
+								["Crit"] = {
+									["count"] = 6,
+								},
+								["Parry"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 107,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Frost"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 15,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 21,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Immune"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["Healing"] = 471732,
+					["DamageTaken"] = 1886375,
+					["Overhealing"] = 712215,
+					["Attacks"] = {
+						["Chaos Strike"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 143963,
+									["min"] = 84493,
+									["count"] = 4,
+									["amount"] = 441054,
+								},
+								["Hit"] = {
+									["max"] = 60880,
+									["min"] = 33247,
+									["count"] = 16,
+									["amount"] = 672116,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 1113170,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 2233,
+									["min"] = 2233,
+									["count"] = 1,
+									["amount"] = 2233,
+								},
+								["Hit"] = {
+									["max"] = 9431,
+									["min"] = 2441,
+									["count"] = 86,
+									["amount"] = 448411,
+								},
+								["Crit"] = {
+									["max"] = 19245,
+									["min"] = 6066,
+									["count"] = 48,
+									["amount"] = 470781,
+								},
+								["Miss"] = {
+									["count"] = 29,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 164,
+							["amount"] = 921425,
+						},
+						["Fel Rush"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 52292,
+									["min"] = 52292,
+									["count"] = 3,
+									["amount"] = 156876,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 156876,
+						},
+						["Chaos Nova"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 47597,
+									["min"] = 34207,
+									["count"] = 5,
+									["amount"] = 184426,
+								},
+								["Hit"] = {
+									["max"] = 23798,
+									["min"] = 17103,
+									["count"] = 6,
+									["amount"] = 116008,
+								},
+							},
+							["count"] = 11,
+							["amount"] = 300434,
+						},
+						["Eye Beam"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 26324,
+									["min"] = 11461,
+									["count"] = 74,
+									["amount"] = 1144848,
+								},
+							},
+							["count"] = 74,
+							["amount"] = 1144848,
+						},
+						["Annihilation"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 143674,
+									["min"] = 94686,
+									["count"] = 4,
+									["amount"] = 492719,
+								},
+								["Hit"] = {
+									["max"] = 70895,
+									["min"] = 45290,
+									["count"] = 4,
+									["amount"] = 225741,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 718460,
+						},
+						["Metamorphosis"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 27363,
+									["min"] = 27363,
+									["count"] = 1,
+									["amount"] = 27363,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 27363,
+						},
+						["Throw Glaive"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 86621,
+									["min"] = 67932,
+									["count"] = 8,
+									["amount"] = 627511,
+								},
+								["Hit"] = {
+									["max"] = 42825,
+									["min"] = 33159,
+									["count"] = 12,
+									["amount"] = 457298,
+								},
+							},
+							["count"] = 20,
+							["amount"] = 1084809,
+						},
+						["Death Sweep"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 66305,
+									["min"] = 19259,
+									["count"] = 3,
+									["amount"] = 107921,
+								},
+								["Hit"] = {
+									["max"] = 32391,
+									["min"] = 9092,
+									["count"] = 13,
+									["amount"] = 195756,
+								},
+							},
+							["count"] = 16,
+							["amount"] = 303677,
+						},
+						["Blade Dance"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 14080,
+									["min"] = 4741,
+									["count"] = 2,
+									["amount"] = 18821,
+								},
+								["Crit"] = {
+									["max"] = 47924,
+									["min"] = 12466,
+									["count"] = 34,
+									["amount"] = 702697,
+								},
+								["Hit"] = {
+									["max"] = 24911,
+									["min"] = 6109,
+									["count"] = 81,
+									["amount"] = 889615,
+								},
+							},
+							["count"] = 117,
+							["amount"] = 1611133,
+						},
+						["Fury of the Illidari"] = {
+							["Details"] = {
+								["Hit (Blocked)"] = {
+									["max"] = 9787,
+									["min"] = 9787,
+									["count"] = 1,
+									["amount"] = 9787,
+								},
+								["Crit"] = {
+									["max"] = 32126,
+									["min"] = 10994,
+									["count"] = 25,
+									["amount"] = 557745,
+								},
+								["Hit"] = {
+									["max"] = 16249,
+									["min"] = 5380,
+									["count"] = 88,
+									["amount"] = 862266,
+								},
+							},
+							["count"] = 114,
+							["amount"] = 1429798,
+						},
+						["Demon's Bite"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 73059,
+									["min"] = 48343,
+									["count"] = 16,
+									["amount"] = 907194,
+								},
+								["Hit"] = {
+									["max"] = 40272,
+									["min"] = 20532,
+									["count"] = 53,
+									["amount"] = 1458677,
+								},
+							},
+							["count"] = 69,
+							["amount"] = 2365871,
+						},
+						["Chaos Cleave"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14396,
+									["min"] = 3324,
+									["count"] = 30,
+									["amount"] = 186296,
+								},
+							},
+							["count"] = 30,
+							["amount"] = 186296,
+						},
+					},
+					["HealingTaken"] = 561081,
+					["WhoHealed"] = {
+						["No One"] = {
+							["Details"] = {
+								["Lifegiving Waters"] = {
+									["count"] = 66907,
+								},
+							},
+							["amount"] = 66907,
+						},
+						["Syredris"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 22442,
+								},
+								["Consume Soul"] = {
+									["count"] = 120054,
+								},
+								["Uriah's Blessing"] = {
+									["count"] = 172700,
+								},
+								["Leech"] = {
+									["count"] = 178978,
+								},
+							},
+							["amount"] = 494174,
+						},
+					},
+					["TimeDamage"] = 202.91,
+					["TimeDamaging"] = {
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.88,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.79,
+								},
+								["Melee"] = {
+									["count"] = 8.07,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.48,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.25,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.73,
+								},
+							},
+							["amount"] = 19.2,
+						},
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 5.36,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.51,
+								},
+								["Demon's Bite"] = {
+									["count"] = 4.81,
+								},
+								["Death Sweep"] = {
+									["count"] = 7.35,
+								},
+								["Melee"] = {
+									["count"] = 13.57,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.62,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.2,
+								},
+							},
+							["amount"] = 35.42,
+						},
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 2.66,
+								},
+								["Melee"] = {
+									["count"] = 7.6,
+								},
+								["Demon's Bite"] = {
+									["count"] = 4.21,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.5,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 3,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.34,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.99,
+								},
+							},
+							["amount"] = 21.3,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 0.86,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.6,
+								},
+								["Throw Glaive"] = {
+									["count"] = 2.55,
+								},
+								["Melee"] = {
+									["count"] = 8.55,
+								},
+								["Chaos Nova"] = {
+									["count"] = 1.16,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 3.33,
+								},
+								["Demon's Bite"] = {
+									["count"] = 6.66,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.21,
+								},
+							},
+							["amount"] = 26.92,
+						},
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 3.69,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.46,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.61,
+								},
+								["Eye Beam"] = {
+									["count"] = 1.86,
+								},
+								["Melee"] = {
+									["count"] = 13.42,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 3.72,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 28.63,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.31,
+								},
+								["Blade Dance"] = {
+									["count"] = 1.99,
+								},
+								["Melee"] = {
+									["count"] = 9.93,
+								},
+								["Throw Glaive"] = {
+									["count"] = 0.7,
+								},
+								["Demon's Bite"] = {
+									["count"] = 2.72,
+								},
+							},
+							["amount"] = 16.65,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 2.92,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.77,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.29,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.5,
+								},
+								["Melee"] = {
+									["count"] = 13,
+								},
+								["Eye Beam"] = {
+									["count"] = 2.12,
+								},
+							},
+							["amount"] = 27.6,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 1.1,
+								},
+								["Blade Dance"] = {
+									["count"] = 2.26,
+								},
+								["Demon's Bite"] = {
+									["count"] = 5.74,
+								},
+								["Fel Rush"] = {
+									["count"] = 1.22,
+								},
+								["Throw Glaive"] = {
+									["count"] = 1.28,
+								},
+								["Melee"] = {
+									["count"] = 15.49,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 0.1,
+								},
+							},
+							["amount"] = 27.19,
+						},
+					},
+					["HealedWho"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Darkness"] = {
+									["count"] = 22442,
+								},
+								["Consume Soul"] = {
+									["count"] = 120054,
+								},
+								["Uriah's Blessing"] = {
+									["count"] = 172700,
+								},
+								["Leech"] = {
+									["count"] = 178978,
+								},
+							},
+							["amount"] = 494174,
+						},
+					},
+					["FuryGainedFrom"] = {
+						["Syredris"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 80,
+								},
+								["Demonic Appetite"] = {
+									["count"] = 393,
+								},
+								["Demon's Bite"] = {
+									["count"] = 1423,
+								},
+								["Fel Mastery"] = {
+									["count"] = 25,
+								},
+								["Consume Magic"] = {
+									["count"] = 62,
+								},
+							},
+							["amount"] = 1983,
+						},
+					},
+					["DamagedWho"] = {
+						["Golza the Iron Fin"] = {
+							["Details"] = {
+								["Annihilation"] = {
+									["count"] = 718460,
+								},
+								["Metamorphosis"] = {
+									["count"] = 27363,
+								},
+								["Melee"] = {
+									["count"] = 214650,
+								},
+								["Blade Dance"] = {
+									["count"] = 89255,
+								},
+								["Death Sweep"] = {
+									["count"] = 303677,
+								},
+								["Throw Glaive"] = {
+									["count"] = 71937,
+								},
+								["Demon's Bite"] = {
+									["count"] = 354564,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 71842,
+								},
+							},
+							["amount"] = 1851748,
+						},
+						["Hatecoil Reservist"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 171807,
+								},
+								["Melee"] = {
+									["count"] = 95829,
+								},
+								["Demon's Bite"] = {
+									["count"] = 179156,
+								},
+								["Chaos Nova"] = {
+									["count"] = 68413,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 559861,
+								},
+								["Throw Glaive"] = {
+									["count"] = 140682,
+								},
+								["Eye Beam"] = {
+									["count"] = 198146,
+								},
+							},
+							["amount"] = 1413894,
+						},
+						["Hatecoil Deepsinger"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 151777,
+								},
+								["Blade Dance"] = {
+									["count"] = 249246,
+								},
+								["Demon's Bite"] = {
+									["count"] = 309036,
+								},
+								["Melee"] = {
+									["count"] = 87994,
+								},
+								["Throw Glaive"] = {
+									["count"] = 167184,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 21802,
+								},
+							},
+							["amount"] = 987039,
+						},
+						["Hatecoil Spitespeaker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 155864,
+								},
+								["Melee"] = {
+									["count"] = 123126,
+								},
+								["Fel Rush"] = {
+									["count"] = 52292,
+								},
+								["Chaos Nova"] = {
+									["count"] = 34206,
+								},
+								["Blade Dance"] = {
+									["count"] = 225065,
+								},
+								["Demon's Bite"] = {
+									["count"] = 358719,
+								},
+								["Eye Beam"] = {
+									["count"] = 149918,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 216297,
+								},
+								["Throw Glaive"] = {
+									["count"] = 199250,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 15584,
+								},
+							},
+							["amount"] = 1530321,
+						},
+						["Salteye Shoresprinter"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 41845,
+								},
+								["Blade Dance"] = {
+									["count"] = 335440,
+								},
+								["Demon's Bite"] = {
+									["count"] = 251893,
+								},
+								["Chaos Nova"] = {
+									["count"] = 95193,
+								},
+								["Melee"] = {
+									["count"] = 50948,
+								},
+								["Throw Glaive"] = {
+									["count"] = 118858,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 4184,
+								},
+							},
+							["amount"] = 898361,
+						},
+						["Dragon Turtle"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 77003,
+								},
+								["Melee"] = {
+									["count"] = 76617,
+								},
+								["Chaos Nova"] = {
+									["count"] = 68415,
+								},
+								["Blade Dance"] = {
+									["count"] = 194855,
+								},
+								["Demon's Bite"] = {
+									["count"] = 210169,
+								},
+								["Eye Beam"] = {
+									["count"] = 238941,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 318983,
+								},
+								["Throw Glaive"] = {
+									["count"] = 265659,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 15398,
+								},
+							},
+							["amount"] = 1466040,
+						},
+						["Ancient Sentry Construct"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 530510,
+								},
+								["Blade Dance"] = {
+									["count"] = 144521,
+								},
+								["Melee"] = {
+									["count"] = 144422,
+								},
+								["Eye Beam"] = {
+									["count"] = 246632,
+								},
+								["Demon's Bite"] = {
+									["count"] = 391741,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 191188,
+								},
+								["Throw Glaive"] = {
+									["count"] = 121239,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 41871,
+								},
+							},
+							["amount"] = 1812124,
+						},
+						["Hatecoil Fathom-Stalker"] = {
+							["Details"] = {
+								["Chaos Strike"] = {
+									["count"] = 156171,
+								},
+								["Melee"] = {
+									["count"] = 127839,
+								},
+								["Fel Rush"] = {
+									["count"] = 104584,
+								},
+								["Chaos Nova"] = {
+									["count"] = 34207,
+								},
+								["Blade Dance"] = {
+									["count"] = 192105,
+								},
+								["Demon's Bite"] = {
+									["count"] = 310593,
+								},
+								["Fury of the Illidari"] = {
+									["count"] = 143469,
+								},
+								["Chaos Cleave"] = {
+									["count"] = 15615,
+								},
+								["Eye Beam"] = {
+									["count"] = 296901,
+								},
+							},
+							["amount"] = 1381484,
+						},
+						["Rapana Whelk"] = {
+							["Details"] = {
+								["Eye Beam"] = {
+									["count"] = 14310,
+								},
+							},
+							["amount"] = 14310,
+						},
+						["Coastal Sandpiper"] = {
+							["Details"] = {
+								["Blade Dance"] = {
+									["count"] = 8839,
+								},
+							},
+							["amount"] = 8839,
+						},
+					},
+				},
+			},
+			["DeathLogs"] = {
+				{
+					["MessageIncoming"] = {
+						true, -- [1]
+						false, -- [2]
+						true, -- [3]
+						false, -- [4]
+						true, -- [5]
+						false, -- [6]
+						false, -- [7]
+						false, -- [8]
+						false, -- [9]
+						false, -- [10]
+						true, -- [11]
+						false, -- [12]
+						false, -- [13]
+						false, -- [14]
+						false, -- [15]
+						false, -- [16]
+						false, -- [17]
+						false, -- [18]
+						false, -- [19]
+						false, -- [20]
+						false, -- [21]
+						false, -- [22]
+						false, -- [23]
+						false, -- [24]
+						true, -- [25]
+						false, -- [26]
+						false, -- [27]
+						false, -- [28]
+						false, -- [29]
+						false, -- [30]
+						false, -- [31]
+						false, -- [32]
+						false, -- [33]
+						false, -- [34]
+						false, -- [35]
+						false, -- [36]
+						false, -- [37]
+						true, -- [38]
+						false, -- [39]
+						true, -- [40]
+						false, -- [41]
+						true, -- [42]
+						false, -- [43]
+						true, -- [44]
+						true, -- [45]
+						false, -- [46]
+						true, -- [47]
+						true, -- [48]
+						true, -- [49]
+						true, -- [50]
+					},
+					["Messages"] = {
+						"Hatecoil Fathom-Stalker Melee Syredris Hit -17182 (Physical)", -- [1]
+						"Syredris Melee Dragon Turtle Hit -6084 (Physical)", -- [2]
+						"Hatecoil Spitespeaker Melee Syredris Hit -12739 (Physical)", -- [3]
+						"Syredris Melee Dragon Turtle Hit -3084 (Physical)", -- [4]
+						"Dragon Turtle Melee Syredris Hit -19430 (Physical)", -- [5]
+						"Syredris Chaos Nova Dragon Turtle Crit -34208", -- [6]
+						"Syredris Chaos Nova Dragon Turtle Crit -34207", -- [7]
+						"Syredris Chaos Nova Hatecoil Spitespeaker Hit -17103", -- [8]
+						"Syredris Chaos Nova Hatecoil Spitespeaker Hit -17103", -- [9]
+						"Syredris Chaos Nova Hatecoil Fathom-Stalker Crit -34207", -- [10]
+						"Hatecoil Spitespeaker Word of Anguish (DoT) Syredris Tick -3155 (Frost)", -- [11]
+						"Syredris Melee Dragon Turtle Hit -6210 (Physical)", -- [12]
+						"Syredris Melee Dragon Turtle Hit -3686 (Physical)", -- [13]
+						"Syredris Demon's Bite Dragon Turtle Hit -28828 (Physical)", -- [14]
+						"Syredris Blade Dance Dragon Turtle Hit -7679 (Physical)", -- [15]
+						"Syredris Blade Dance Dragon Turtle Hit -7898 (Physical)", -- [16]
+						"Syredris Blade Dance Hatecoil Spitespeaker Crit -16915 (Physical)", -- [17]
+						"Syredris Blade Dance Hatecoil Spitespeaker Hit -7894 (Physical)", -- [18]
+						"Syredris Blade Dance Hatecoil Fathom-Stalker Hit -7245 (Physical)", -- [19]
+						"Syredris Blade Dance Dragon Turtle Hit -7380 (Physical)", -- [20]
+						"Syredris Blade Dance Dragon Turtle Hit -7606 (Physical)", -- [21]
+						"Syredris Blade Dance Hatecoil Spitespeaker Crit -16876 (Physical)", -- [22]
+						"Syredris Blade Dance Hatecoil Spitespeaker Crit -16373 (Physical)", -- [23]
+						"Syredris Blade Dance Hatecoil Fathom-Stalker Crit -15748 (Physical)", -- [24]
+						"Hatecoil Spitespeaker Word of Anguish (DoT) Syredris Tick -3155 (Frost)", -- [25]
+						"Syredris Melee Dragon Turtle Crit -14207 (Physical)", -- [26]
+						"Syredris Blade Dance Dragon Turtle Hit -7764 (Physical)", -- [27]
+						"Syredris Blade Dance Dragon Turtle Hit -7707 (Physical)", -- [28]
+						"Syredris Blade Dance Hatecoil Spitespeaker Crit -15821 (Physical)", -- [29]
+						"Syredris Blade Dance Hatecoil Spitespeaker Hit -7998 (Physical)", -- [30]
+						"Syredris Blade Dance Hatecoil Fathom-Stalker Hit -7567 (Physical)", -- [31]
+						"Syredris Melee Dragon Turtle Hit -3666 (Physical)", -- [32]
+						"Syredris Blade Dance Dragon Turtle Hit -23606 (Physical)", -- [33]
+						"Syredris Blade Dance Dragon Turtle Hit -23669 (Physical)", -- [34]
+						"Syredris Blade Dance Hatecoil Spitespeaker Hit -24911 (Physical)", -- [35]
+						"Syredris Blade Dance Hatecoil Spitespeaker Hit -24442 (Physical)", -- [36]
+						"Syredris Blade Dance Hatecoil Fathom-Stalker Crit -44585 (Physical)", -- [37]
+						"Dragon Turtle Melee Syredris Hit -14485 (Physical)", -- [38]
+						"Syredris Throw Glaive Dragon Turtle Crit -83819 (Physical)", -- [39]
+						"Dragon Turtle Powerful Bite Syredris Hit -16521 (Physical)", -- [40]
+						"Syredris Throw Glaive Hatecoil Spitespeaker Crit -84583 (Physical)", -- [41]
+						"Dragon Turtle Melee Syredris Crit -32705 (Physical)", -- [42]
+						"Syredris Throw Glaive Dragon Turtle Hit -41785 (Physical)", -- [43]
+						"Hatecoil Fathom-Stalker Melee Syredris Hit -14904 (Physical)", -- [44]
+						"Hatecoil Spitespeaker Melee Syredris Hit -16776 (Physical)", -- [45]
+						"Syredris Demon's Bite Dragon Turtle Hit -29506 (Physical)", -- [46]
+						"Dragon Turtle Powerful Bite Syredris Hit -14530 (Physical)", -- [47]
+						"Hatecoil Spitespeaker Word of Anguish (DoT) Syredris Tick -3155 (Frost)", -- [48]
+						"Hatecoil Spitespeaker Frost Nova Syredris Hit -13971 (Frost)", -- [49]
+						"Syredris dies.", -- [50]
+					},
+					["DeathAt"] = 134959.534,
+					["EventNum"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						0, -- [4]
+						0, -- [5]
+						0, -- [6]
+						0, -- [7]
+						0, -- [8]
+						0, -- [9]
+						0, -- [10]
+						0, -- [11]
+						0, -- [12]
+						0, -- [13]
+						0, -- [14]
+						0, -- [15]
+						0, -- [16]
+						0, -- [17]
+						0, -- [18]
+						0, -- [19]
+						0, -- [20]
+						0, -- [21]
+						0, -- [22]
+						0, -- [23]
+						0, -- [24]
+						0, -- [25]
+						0, -- [26]
+						0, -- [27]
+						0, -- [28]
+						0, -- [29]
+						0, -- [30]
+						0, -- [31]
+						0, -- [32]
+						0, -- [33]
+						0, -- [34]
+						0, -- [35]
+						0, -- [36]
+						0, -- [37]
+						0, -- [38]
+						0, -- [39]
+						0, -- [40]
+						0, -- [41]
+						0, -- [42]
+						0, -- [43]
+						0, -- [44]
+						0, -- [45]
+						0, -- [46]
+						0, -- [47]
+						0, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["MessageTimes"] = {
+						-8.07200000001467, -- [1]
+						-7.46400000000722, -- [2]
+						-7.46400000000722, -- [3]
+						-7.46400000000722, -- [4]
+						-6.98000000001048, -- [5]
+						-6.30400000000373, -- [6]
+						-6.30400000000373, -- [7]
+						-6.30400000000373, -- [8]
+						-6.30400000000373, -- [9]
+						-6.30400000000373, -- [10]
+						-5.97500000000582, -- [11]
+						-5.69700000001467, -- [12]
+						-5.29400000002352, -- [13]
+						-5.19200000001001, -- [14]
+						-3.91500000000815, -- [15]
+						-3.91500000000815, -- [16]
+						-3.91500000000815, -- [17]
+						-3.91500000000815, -- [18]
+						-3.91500000000815, -- [19]
+						-3.6480000000156, -- [20]
+						-3.6480000000156, -- [21]
+						-3.6480000000156, -- [22]
+						-3.6480000000156, -- [23]
+						-3.6480000000156, -- [24]
+						-3.41800000000512, -- [25]
+						-3.41800000000512, -- [26]
+						-3.41800000000512, -- [27]
+						-3.41800000000512, -- [28]
+						-3.41800000000512, -- [29]
+						-3.41800000000512, -- [30]
+						-3.41800000000512, -- [31]
+						-3.28900000001886, -- [32]
+						-3.18499999999767, -- [33]
+						-3.18499999999767, -- [34]
+						-3.18499999999767, -- [35]
+						-3.18499999999767, -- [36]
+						-3.18499999999767, -- [37]
+						-2.24500000002445, -- [38]
+						-2.24500000002445, -- [39]
+						-2.15100000001257, -- [40]
+						-2.15100000001257, -- [41]
+						-2.04300000000512, -- [42]
+						-2.04300000000512, -- [43]
+						-1.66000000000349, -- [44]
+						-1.66000000000349, -- [45]
+						-1.05600000001141, -- [46]
+						-0.406000000017229, -- [47]
+						-0.406000000017229, -- [48]
+						0, -- [49]
+						0, -- [50]
+					},
+					["HealthMax"] = {
+						503100, -- [1]
+						503100, -- [2]
+						503100, -- [3]
+						503100, -- [4]
+						503100, -- [5]
+						503100, -- [6]
+						503100, -- [7]
+						503100, -- [8]
+						503100, -- [9]
+						503100, -- [10]
+						503100, -- [11]
+						503100, -- [12]
+						503100, -- [13]
+						503100, -- [14]
+						503100, -- [15]
+						503100, -- [16]
+						503100, -- [17]
+						503100, -- [18]
+						503100, -- [19]
+						503100, -- [20]
+						503100, -- [21]
+						503100, -- [22]
+						503100, -- [23]
+						503100, -- [24]
+						503100, -- [25]
+						503100, -- [26]
+						503100, -- [27]
+						503100, -- [28]
+						503100, -- [29]
+						503100, -- [30]
+						503100, -- [31]
+						503100, -- [32]
+						503100, -- [33]
+						503100, -- [34]
+						503100, -- [35]
+						503100, -- [36]
+						503100, -- [37]
+						503100, -- [38]
+						503100, -- [39]
+						503100, -- [40]
+						503100, -- [41]
+						503100, -- [42]
+						503100, -- [43]
+						503100, -- [44]
+						503100, -- [45]
+						503100, -- [46]
+						503100, -- [47]
+						503100, -- [48]
+						503100, -- [49]
+						503100, -- [50]
+					},
+					["Health"] = {
+						171054, -- [1]
+						153872, -- [2]
+						153872, -- [3]
+						153872, -- [4]
+						141133, -- [5]
+						141133, -- [6]
+						141133, -- [7]
+						141133, -- [8]
+						141133, -- [9]
+						141133, -- [10]
+						118548, -- [11]
+						118548, -- [12]
+						118548, -- [13]
+						118548, -- [14]
+						118548, -- [15]
+						118548, -- [16]
+						118548, -- [17]
+						118548, -- [18]
+						118548, -- [19]
+						118548, -- [20]
+						118548, -- [21]
+						118548, -- [22]
+						118548, -- [23]
+						118548, -- [24]
+						115393, -- [25]
+						115393, -- [26]
+						115393, -- [27]
+						115393, -- [28]
+						115393, -- [29]
+						115393, -- [30]
+						115393, -- [31]
+						115393, -- [32]
+						115393, -- [33]
+						115393, -- [34]
+						115393, -- [35]
+						115393, -- [36]
+						115393, -- [37]
+						115393, -- [38]
+						115393, -- [39]
+						98872, -- [40]
+						98872, -- [41]
+						84387, -- [42]
+						84387, -- [43]
+						84387, -- [44]
+						84387, -- [45]
+						20002, -- [46]
+						5472, -- [47]
+						2317, -- [48]
+						1, -- [49]
+						0, -- [50]
+					},
+					["KilledBy"] = "Hatecoil Spitespeaker",
+					["MessageType"] = {
+						"DAMAGE", -- [1]
+						"DAMAGE", -- [2]
+						"DAMAGE", -- [3]
+						"DAMAGE", -- [4]
+						"DAMAGE", -- [5]
+						"DAMAGE", -- [6]
+						"DAMAGE", -- [7]
+						"DAMAGE", -- [8]
+						"DAMAGE", -- [9]
+						"DAMAGE", -- [10]
+						"DAMAGE", -- [11]
+						"DAMAGE", -- [12]
+						"DAMAGE", -- [13]
+						"DAMAGE", -- [14]
+						"DAMAGE", -- [15]
+						"DAMAGE", -- [16]
+						"DAMAGE", -- [17]
+						"DAMAGE", -- [18]
+						"DAMAGE", -- [19]
+						"DAMAGE", -- [20]
+						"DAMAGE", -- [21]
+						"DAMAGE", -- [22]
+						"DAMAGE", -- [23]
+						"DAMAGE", -- [24]
+						"DAMAGE", -- [25]
+						"DAMAGE", -- [26]
+						"DAMAGE", -- [27]
+						"DAMAGE", -- [28]
+						"DAMAGE", -- [29]
+						"DAMAGE", -- [30]
+						"DAMAGE", -- [31]
+						"DAMAGE", -- [32]
+						"DAMAGE", -- [33]
+						"DAMAGE", -- [34]
+						"DAMAGE", -- [35]
+						"DAMAGE", -- [36]
+						"DAMAGE", -- [37]
+						"DAMAGE", -- [38]
+						"DAMAGE", -- [39]
+						"DAMAGE", -- [40]
+						"DAMAGE", -- [41]
+						"DAMAGE", -- [42]
+						"DAMAGE", -- [43]
+						"DAMAGE", -- [44]
+						"DAMAGE", -- [45]
+						"DAMAGE", -- [46]
+						"DAMAGE", -- [47]
+						"DAMAGE", -- [48]
+						"DAMAGE", -- [49]
+						"MISC", -- [50]
+					},
+				}, -- [1]
+			},
+			["UnitLockout"] = 134612.536,
+			["LastAbility"] = 61238.782,
+		},
+	},
+	["FightNum"] = 12,
+	["CombatTimes"] = {
+		{
+			134726.538, -- [1]
+			134740.536, -- [2]
+			"14:27:43", -- [3]
+			"14:27:56", -- [4]
+			"Environment", -- [5]
+		}, -- [1]
+		{
+			134782.535, -- [1]
+			134805.531, -- [2]
+			"14:28:39", -- [3]
+			"14:29:01", -- [4]
+			"Hatecoil Deepsinger", -- [5]
+		}, -- [2]
+		{
+			134806.525, -- [1]
+			134833.534, -- [2]
+			"14:29:02", -- [3]
+			"14:29:29", -- [4]
+			"Hatecoil Reservist", -- [5]
+		}, -- [3]
+		{
+			134845.527, -- [1]
+			134887.526, -- [2]
+			"14:29:42", -- [3]
+			"14:30:23", -- [4]
+			"Golza the Iron Fin", -- [5]
+		}, -- [4]
+		{
+			134908.53, -- [1]
+			134920.536, -- [2]
+			"14:30:44", -- [3]
+			"14:30:56", -- [4]
+			"Hatecoil Spitespeaker", -- [5]
+		}, -- [5]
+		{
+			134929.525, -- [1]
+			134958.53, -- [2]
+			"14:31:06", -- [3]
+			"14:31:34", -- [4]
+			"Dragon Turtle", -- [5]
+		}, -- [6]
+		{
+			134978.745, -- [1]
+			134995.743, -- [2]
+			"14:31:55", -- [3]
+			"14:32:11", -- [4]
+			"Hatecoil Spitespeaker", -- [5]
+		}, -- [7]
+		{
+			135000.745, -- [1]
+			135015.748, -- [2]
+			"14:32:17", -- [3]
+			"14:32:31", -- [4]
+			"Hatecoil Spitespeaker", -- [5]
+		}, -- [8]
+		{
+			135034.747, -- [1]
+			135047.754, -- [2]
+			"14:32:51", -- [3]
+			"14:33:03", -- [4]
+			"Hatecoil Fathom-Stalker", -- [5]
+		}, -- [9]
+		{
+			135073.749, -- [1]
+			135094.742, -- [2]
+			"14:33:30", -- [3]
+			"14:33:50", -- [4]
+			"Hatecoil Spitespeaker", -- [5]
+		}, -- [10]
+		{
+			135128.748, -- [1]
+			135151.741, -- [2]
+			"14:34:25", -- [3]
+			"14:34:47", -- [4]
+			"Salteye Shoresprinter", -- [5]
+		}, -- [11]
+		{
+			135162.75, -- [1]
+			135192.757, -- [2]
+			"14:34:59", -- [3]
+			"14:35:28", -- [4]
+			"Ancient Sentry Construct", -- [5]
+		}, -- [12]
+	},
+	["FoughtWho"] = {
+		"Ancient Sentry Construct 14:34:59-14:35:28", -- [1]
+		"Salteye Shoresprinter 14:34:25-14:34:47", -- [2]
+		"Hatecoil Spitespeaker 14:33:30-14:33:50", -- [3]
+		"Hatecoil Fathom-Stalker 14:32:51-14:33:03", -- [4]
+		"Hatecoil Spitespeaker 14:32:17-14:32:31", -- [5]
+	},
+}

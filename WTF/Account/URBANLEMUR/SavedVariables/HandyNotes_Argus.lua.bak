@@ -1,0 +1,17 @@
+
+HandyNotesArgusDB = {
+	["profileKeys"] = {
+		["Nephalia - Rexxar"] = "Default",
+		["Dralana - Rexxar"] = "Default",
+		["Ikort - Rexxar"] = "Default",
+		["Lunarisi - Rexxar"] = "Default",
+		["Gallei - Rexxar"] = "Default",
+		["Kipol - Rexxar"] = "Default",
+		["Nuuda - Rexxar"] = "Default",
+		["Tinkhan - Rexxar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
